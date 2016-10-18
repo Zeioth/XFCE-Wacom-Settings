@@ -37,14 +37,6 @@ I told you, you have to reboot.
 ./commands.sh --help
 ```
 
-**I'm using an old PC. How can I save RAM?**
-
-After the installation run 
-```
-./commands.sh disable-autostart-gnome-settings-daemon
-```
-You will save ~25MB. The settings will be shown using GTK. The leds in your tablet may not turn on. It works, though.
-
 Pourpose
 ==================
 We are aiming to implement this panel natively on XFCE. Meanwhile, you can install it from here.
