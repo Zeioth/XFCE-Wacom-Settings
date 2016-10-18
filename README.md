@@ -25,7 +25,7 @@ Just press enter. The default configuration will work fine.
 
 **Why are my settings so ugly? Why it doesn't work?**
 
-I told you, you have to reboot.
+You have to restart your PC after the installation is complete.
 
 **I disabled the plugins. How do I restore them?**
 ```
