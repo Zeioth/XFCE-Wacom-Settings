@@ -21,7 +21,7 @@ FAQ
 
 **What options should I choose during the installation?**
 
-Just press enter. The default configuration will work just fine.
+Just press enter. The default configuration will work fine.
 
 **Why are my settings so ugly?**
 
