@@ -27,7 +27,7 @@ Just press enter. The default configuration will work fine.
 
 You have to reboot after install.
 
-**I disabled gnome-settings-daemon plugins. How do I restore them?**
+**I disabled the plugins. How do I restore them?**
 ```
 ./commands.sh enable-gnome-plugins
 ```
