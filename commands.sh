@@ -83,7 +83,7 @@ case "$1" in
     uninstall-dependencies)
       # Prompt the user to uninstall the dependencies
       read -e -p "Uninstall dependencies? Choose 'n' if you use Gnome as secondary desktop environment (y/n): "\
-       -i "y" dependencies_agreement
+       -i "n" dependencies_agreement
       if [ "$dependencies_agreement" == "y" ]; then
         @echo "Uninstalling dependencies..."
         sudo apt-get remove gnome-settings-daemon gnome-control-center

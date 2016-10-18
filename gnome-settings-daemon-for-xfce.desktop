@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=GSD-based Wacom support for Xfce
+Name=Gnome settings daemon
 Comment=Manage Wacom settings via the GNOME settings daemon
 Exec=gnome-settings-daemon
 Icon=input-tablet
