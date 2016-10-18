@@ -23,7 +23,7 @@ FAQ
 
 Just press enter. The default configuration will work just fine.
 
-**My are my settings so ugly?**
+**Why are my settings so ugly?**
 
 You have to reboot after install.
 
