@@ -23,9 +23,9 @@ FAQ
 
 Just press enter. The default configuration will work just fine.
 
-**My settings are ugly!**
+**My settings are ugly**
 
-You have to reboot after install it.
+You have to reboot after install.
 
 **I disabled gnome-settings-daemon plugins. How do I restore them?**
 ```
