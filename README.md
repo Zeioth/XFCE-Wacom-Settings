@@ -6,7 +6,7 @@ This script installs GNOME's 'Wacom Settings' in XFCE.
 
 Installation
 ==============
-To install it, run the next command in this directory. After that you will find a new icon in your XFCE Settings.
+To install it, run the next command in this directory. After you reboot, you will find a new icon in your XFCE Settings.
 ```bash
 make install
 ```
@@ -23,9 +23,9 @@ FAQ
 
 Just press enter. The default configuration will work fine.
 
-**Why are my settings so ugly?**
+**Why are my settings so ugly? Why it doesn't work?**
 
-You have to reboot after install.
+I told you, you have to reboot.
 
 **I disabled the plugins. How do I restore them?**
 ```
