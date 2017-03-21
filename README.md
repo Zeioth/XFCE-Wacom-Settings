@@ -23,7 +23,7 @@ FAQ
 
 Just press enter. The default configuration will work fine.
 
-**Why it doesn't work? Why are my settings so ugly? **
+**Why it doesn't work? Why are my settings so ugly?**
 
 You have to restart your PC after the installation is complete.
 
