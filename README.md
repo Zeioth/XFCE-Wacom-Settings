@@ -23,9 +23,16 @@ FAQ
 
 Just press enter. The default configuration will work fine.
 
-**Why are my settings so ugly? Why it doesn't work?**
+**Why it doesn't work? Why are my settings so ugly? **
 
 You have to restart your PC after the installation is complete.
+
+**It is compatible with any Linux distro?**
+
+Yes. But if your distro is not based on Ubuntu, install the next packages:
+
+    gnome-settings-daemon
+    gnome-control-center
 
 **I disabled the plugins. How do I restore them?**
 ```
