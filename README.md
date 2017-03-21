@@ -27,13 +27,6 @@ Just press enter. The default configuration will work fine.
 
 You have to restart your PC after the installation is complete.
 
-**It is compatible with any Linux distro?**
-
-Yes. But if your distro is not based on Ubuntu, install the next packages:
-
-    gnome-settings-daemon
-    gnome-control-center
-
 **I disabled the plugins. How do I restore them?**
 ```
 ./commands.sh enable-gnome-plugins
@@ -43,6 +36,13 @@ Yes. But if your distro is not based on Ubuntu, install the next packages:
 ```
 ./commands.sh --help
 ```
+
+**It is compatible with any Linux distro?**
+
+Yes. But if your distro is not based on Ubuntu, install the next packages:
+
+    gnome-settings-daemon
+    gnome-control-center
 
 Pourpose
 ==================
