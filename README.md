@@ -37,13 +37,13 @@ You have to restart your PC after the installation is complete.
 ./commands.sh --help
 ```
 
-**It is compatible with any Linux distro?**
-
-Yes. But if your distro is not based on Ubuntu, install the next packages:
+Compatibility
+==================
+If your distro is not based on Ubuntu, choose 'n' during 'install dependencies', and manually install the next packages:
 
     gnome-settings-daemon
     gnome-control-center
-
+    
 Pourpose
 ==================
 We are aiming to implement this panel natively on XFCE. Meanwhile, you can install it from here.
