@@ -39,7 +39,7 @@ You have to restart your PC after the installation is complete.
 
 Compatibility
 ==================
-If your distro is not based on Ubuntu, choose 'n' during 'install dependencies', and manually install the next packages:
+If your distro is not based on Ubuntu, choose 'n' during 'install dependencies', and install manually the next packages:
 
     gnome-settings-daemon
     gnome-control-center
