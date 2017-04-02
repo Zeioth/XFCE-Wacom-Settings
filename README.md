@@ -23,7 +23,7 @@ FAQ
 
 Just press enter. The default configuration will work fine.
 
-**Why it doesn't work? Why are my settings so ugly?**
+**Why doesn't it work? Why are my settings so ugly?**
 
 You have to restart your PC after the installation is complete.
 
@@ -44,7 +44,7 @@ If your distro is not based on Ubuntu, choose 'n' during 'install dependencies',
     gnome-settings-daemon
     gnome-control-center
     
-Pourpose
+Purpose
 ==================
 We are aiming to implement this panel natively on XFCE. Meanwhile, you can install it from here.
 
