@@ -1,4 +1,4 @@
-**NEWS:** Gnome has updated their code recently, so this repository won't work for distros released after 2017, and rolling release distros.
+**NEWS:** Gnome has updated their code recently, so this repository won't work for distros released after 2017, and rolling release distros (yet).
 
 Introduction
 =============
